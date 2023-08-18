@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Mehmet Kılıç</h1>
 <h3 align="center">👨🏻‍💻 Hello I am Mehmet. I am improving myself in many areas. These are mostly software,💻 and video editing. 🎥 I have many projects waiting to be realized, see you for now.</h3>
 
+<h3 align="left">Freelance:</h3>
+<table>
+  <tr>
+  <th> <a href="https://www.fiverr.com/coderscove?up_rollout=true" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1656739257fiverr-logo-transparent.png" alt="mehmetkilic35" height="30" width="40" /></a> </th>
+  <th> <a href="https://bionluk.com/_mehmetkilic" target="blank"><img align="center" src="https://imgs.search.brave.com/FktMtZn2A8slvSKNlUYNzHVGRv7_Ihy--QZIp2meAi8/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9maWxl/cy5zaWtheWV0dmFy/LmNvbS9sZy9jbXAv/NDUvNDU2MzEucG5n/PzE1MjI2NTAxMjU" alt="mehmetkilic35" height="30" width="40" /></a> </th>
+  </tr>
+</table>
+
 <h3 align="left">Desing:</h3>
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
