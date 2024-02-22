@@ -6,7 +6,7 @@
 <p align="left">
 <a href="https://twitter.com/_mehmetkilic35" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_mehmetkilic35" height="30" width="40" /></a>
 <a href="https://instagram.com/_mehmetkilic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_mehmetkilic" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/_mehmetkilic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="_mehmetkilic" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCnxweirKG2ku2YlMm83qohw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="_mehmetkilic" height="30" width="40" /></a>
 <a href="https://discord.gg/WUt3FC58JZ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WUt3FC58JZ" height="30" width="40" /></a>
 </p>
 
