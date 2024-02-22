@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mehmet Kılıç</h1>
 <h3 align="center">👨🏻‍💻 Hello I am Mehmet. I am improving myself in many areas. These are mostly software,💻 and video editing. 🎥 I have many projects waiting to be realized, see you for now.</h3>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
 
 <h3 align="left">Freelance:</h3>
 <table>
