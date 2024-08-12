@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet Kılıç</h1>
-<h3 align="center">Developer Engineer | Software, Robotics and Cyber Security</h3>
+<h3 align="center">Science Student | Software, Robotics and Cyber Security</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
