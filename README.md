@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehmet Kılıç</h1>
-<h3 align="center">Computer Science | Technology Entrepreneur & AI
+<h3 align="center">Software Engineer | Building AI Products that Scale | Python & Machine Learning Expert
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
